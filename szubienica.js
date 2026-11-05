@@ -1,7 +1,7 @@
     let pula_hasel = [
-       'Co nagle to po diable',
-        'Bez pracy nie ma kołaczy',
-        'Kto rano wstaje temu Pan Bóg daje',
+'Co nagle to po diable',
+'Bez pracy nie ma kołaczy',
+'Kto rano wstaje temu Pan Bóg daje',
 'Jak sobie pościelesz tak się wyśpisz',
 'Gdzie kucharek sześć tam nie ma co jeść',
 'Nie chwal dnia przed zachodem słońca',
